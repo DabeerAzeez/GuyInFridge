@@ -1,4 +1,4 @@
-![Signature on black background](Banner2.png)
+![Signature on black background](https://github.com/GuyInFridge/GuyInFridge/blob/master/Banner2.png)
 
 # 🙋‍♂️ Hi there!
 Pardon the horrible cursive (I'm no artist), but yes, my name is Dabeer, and I'm an avid biomedical engineering student who has some (albeit limited) time for side projects to upload to GitHub! 
