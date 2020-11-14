@@ -15,7 +15,7 @@ Pardon the horrible cursive (I'm no artist), but yes, my name is Dabeer, and I'm
 ## 📫 How to reach me
 - Email: **abdulazd@mcmaster.ca**
 - LinkedIn: **[https://www.linkedin.com/in/dabeerabdulazeez/](https://www.linkedin.com/in/dabeerabdulazeez/)**
-- My Website: **[https://dabeerazeez.wixsite.com/1p10portfolio](https://abdulazd.wixsite.com/1p10portfolio)**
+- My Website: **[https://abdulazd.wixsite.com/1p10portfolio](https://abdulazd.wixsite.com/1p10portfolio)**
 
 <!--
 **GuyInFridge/GuyInFridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
