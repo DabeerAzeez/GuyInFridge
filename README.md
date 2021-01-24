@@ -9,8 +9,6 @@ Pardon the horrible cursive (I'm no artist), but yes, my name is Dabeer, and I'm
 - Typescript
 - Angular
 - Firebase
-- Raspberry Pi
-- Arduinos
 
 ## 📫 How to reach me
 - Email: **abdulazd@mcmaster.ca**
